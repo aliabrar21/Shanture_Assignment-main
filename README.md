@@ -36,7 +36,7 @@ To set up the frontend project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/ibrahim9492/shanture_Assignment.git
+    git clone https://github.com/aliabrar21/Shanture_Assignment-main
     cd shanture_Assignment
     ```
 2.  **Install dependencies:**
@@ -103,4 +103,4 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-  * **Ibrahim Shaik** - [GitHub Profile](https://www.google.com/search?q=https://github.com/ibrahim9492)
+  * **Abrar Ali** - [GitHub Profile](https://github.com/aliabrar21)
